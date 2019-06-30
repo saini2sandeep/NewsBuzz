@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="color_white">#FFFFFF</color>
+
+    <!-- BLUEGRAY Theme -->
+    <color name="primaryColorBlueGray">#607D8B</color>
+    <color name="primaryLightColorBlueGray">#CFD8DC</color>
+    <color name="primaryDarkColorBlueGray">#455A64</color>
+    <color name="secondaryColorBlueGray">#CDDC39</color>
+    <color name="secondaryLightColorBlueGray">#e3f15c</color>
+    <color name="secondaryDarkColorBlueGray">#a6b320</color>
+    <color name="primaryTextColorBlueGray">#ffffff</color>
+    <color name="secondaryTextColorBlueGray">#000000</color>
+</resources>

@@ -1,0 +1,14 @@
+
+isquid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(³¿á•8òôŠº-
+žsquid:S1186""€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¤‰æ\8˜ñÎŠº-
+usquid:UselessImportCheck"ERemove this unused import 'android.support.v7.app.AppCompatActivity'.(«Û®ûüÿÿÿÿ8óïÍŠº-
+isquid:CommentedOutCodeLine9"<This block of commented-out lines of code should be removed.(ÿ—Ò¼8òôŠº-
+isquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(îŸ¬ª8òôŠº-
+hsquid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.(ê”ïk8»—ÞŠº-
+isquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(äïˆ8»—ÞŠº-
+^squid:UselessImportCheck".Remove this unused import 'android.os.Bundle'.(°þÊóøÿÿÿÿ8´£ÐŠº-
+qsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(ìÅ Ìýÿÿÿÿ8óïÍŠº-
+nsquid:CommentedOutCodeLineG"<This block of commented-out lines of code should be removed.(Ù÷žñùÿÿÿÿ8òôŠº-
+nsquid:CommentedOutCodeLineK"<This block of commented-out lines of code should be removed.(™ÕÃ¼þÿÿÿÿ8òôŠº-
+nsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(°Ä®šùÿÿÿÿ8»—ÞŠº-
+nsquid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(›¢¼Äüÿÿÿÿ8òôŠº-

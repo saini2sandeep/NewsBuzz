@@ -1,0 +1,23 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="app_bar_height">240dp</dimen>
+
+    <dimen name="tv_10">10sp</dimen>
+    <dimen name="tv_12">12sp</dimen>
+    <dimen name="tv_14">14sp</dimen>
+    <dimen name="tv_16">16sp</dimen>
+    <dimen name="tv_18">18sp</dimen>
+    <dimen name="tv_20">20sp</dimen>
+    <dimen name="tv_22">22sp</dimen>
+
+
+    <dimen name="dimen_4">4dp</dimen>
+    <dimen name="dimen_6">6dp</dimen>
+    <dimen name="dimen_8">8dp</dimen>
+    <dimen name="dimen_10">10dp</dimen>
+    <dimen name="dimen_12">12dp</dimen>
+    <dimen name="dimen_14">14dp</dimen>
+
+
+</resources>

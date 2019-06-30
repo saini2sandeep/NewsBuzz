@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsBuzz</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="author_text">Author: </string>
+    <string name="sample_text">For hundreds of years, people of all ages, from all over the world, have told similar stories about moments their lives were in real peril: an intense white light, a sense of tranquility and feeling as if they were somehow floating above their body.</string>
+    <string name="read_more_text">Read More </string>
+
+    <string name="news_detail">News Detail </string>
+
+</resources>
